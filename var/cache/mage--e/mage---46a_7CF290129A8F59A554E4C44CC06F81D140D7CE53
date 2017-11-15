@@ -1,0 +1,25 @@
+<div class="widget widget-static-block"><div class="container-our-store">
+<div class="main-container col1-layout">
+<div class="main">
+<div class="content-find-your">
+<div class="title-our-store">
+<p>Our Store</p>
+</div>
+<div class="table-store">
+<ul class="tabe-our-store">
+<li class="text-title-our-store">Chicago RidgeMall</li>
+<li>230 Chicago Ridge Mall,</li>
+<li>Chicago Ridge, IL 60415</li>
+<li class="text-phone-our-store">(708) 499-0840</li>
+<li calss="text-bold-our-store">Hours of Operation</li>
+<li>Monday - Saturday</li>
+<li>10AM - 9PM</li>
+<li>Sunday</li>
+<li>10AM - 6PM</li>
+</ul>
+</div>
+<div class="image-our-store"><img alt="" src="http://test.magento/media/wysiwyg/Jordan-Room.jpg" /></div>
+</div>
+</div>
+</div>
+</div></div>

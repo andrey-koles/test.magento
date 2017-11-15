@@ -1,0 +1,55 @@
+<div class="background-footer">
+<div class="footer-container">
+    <div class="footer">
+        <div class="block block-subscribe footer-newsletter">
+    <div class="block-title">
+        <strong><span>Sign Up for Our Newsletter</span></strong>
+    </div>
+    <form action="http://test.magento/index.php/newsletter/subscriber/new/?___SID=U" method="post" id="newsletter-validate-detail">
+        <div class="block-content">
+            <div class="form-subscribe-header">
+                <label for="newsletter">Sign Up for Our Newsletter:</label>
+            </div>
+            <div class="input-box">
+               <input type="email" autocapitalize="off" autocorrect="off" spellcheck="false" placeholder="Enter your emeil" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email" />
+            </div>
+            <div class="actions">
+                <button type="submit" title="Subscribe" class="button"><span><span>Subscribe</span></span></button>
+            </div>
+        </div>
+    </form>
+
+    <script type="text/javascript">
+    //<![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]>
+    </script>
+</div>
+<!-- <div class="footer-soc"><a href="#" target="_blank"><img alt="" src="../../../../../media/wysiwyg/instogram.png" /></a> <a href="#" target="_blank"><img alt="" src="{{media url="wysiwyg/facebook.png"}}" /></a> <a href="#" target="_blank"><img alt="" src="{{media url="wysiwyg/twitter.png"}}" /></a></div> -->
+
+<div class="footer-logo"><img alt="" src="http://test.magento/media/wysiwyg/logo-footer.png" /></div>
+<div class="links footer-links">
+<ul>
+<li><span class="widget widget-cms-link-inline"><a href="http://test.magento/index.php/gift-cards?___SID=U" title="Gift Cards"><span>Gift Cards</span></a></span>
+</li>
+<li><span class="widget widget-cms-link-inline"><a href="http://test.magento/index.php/find-a-store?___SID=U" title="Find a Store"><span>Find a Store</span></a></span>
+</li>
+<li><span class="widget widget-cms-link-inline"><a href="http://test.magento/index.php/become-a-member?___SID=U" title="Become a Member"><span>Become a Member</span></a></span>
+</li>
+</ul>
+</div>
+<div class="links footer-links-help">
+<div class="block-title"><strong><span>Need Help?</span></strong></div>
+<ul>
+<li><span class="widget widget-cms-link-inline"><a href="http://test.magento/index.php/order-status?___SID=U" title="Order Status"><span>Order Status</span></a></span>
+</li>
+<li><span class="widget widget-cms-link-inline"><a href="http://test.magento/index.php/consignment?___SID=U" title="Consignment"><span>Consignment</span></a></span>
+</li>
+<li><span class="widget widget-cms-link-inline"><a href="http://test.magento/index.php/returns?___SID=U" title="Returns"><span>Returns</span></a></span>
+</li>
+<li><a href="http://test.magento/index.php/?___SID=Ucontacts/">Contact Us</a></li>
+</ul>
+</div>
+<div class="footer-soc"><a href="#" target="_blank"><img alt="" src="http://test.magento/media/wysiwyg/instogram.png" /></a> <a href="#" target="_blank"><img alt="" src="http://test.magento/media/wysiwyg/facebook.png" /></a> <a href="#" target="_blank"><img alt="" src="http://test.magento/media/wysiwyg/twitter.png" /></a></div>    </div>
+</div>
+</div>

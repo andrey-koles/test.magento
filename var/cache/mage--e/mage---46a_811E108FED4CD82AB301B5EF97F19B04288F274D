@@ -1,0 +1,13 @@
+<div class="widget widget-static-block"><div class="background-slider">
+<div class="main-container col1-layout">
+<div class="main">
+<div class="slideshow-container">
+<ul class="slideshow">
+<li><img alt="" src="http://test.magento/media/wysiwyg/slide-1.png" /><span class="slider-text">Lorem Ipsum Dolor sit Amit </span><a class="slider-button" href="#">Button</a></li>
+<li><img alt="" src="http://test.magento/media/wysiwyg/slide-1.png" /><span class="slider-text">Lorem Ipsum Dolor sit Amit </span><a class="slider-button" href="#">Button</a></li>
+</ul>
+<div class="slideshow-pager">&nbsp;</div>
+<span class="slideshow-prev">&nbsp;</span> <span class="slideshow-next">&nbsp;</span></div>
+</div>
+</div>
+</div></div>

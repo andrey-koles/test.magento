@@ -1,0 +1,24 @@
+<div class="footer-logo"><img alt="" src="http://test.magento/media/wysiwyg/logo-footer.png" /></div>
+<div class="links footer-links">
+<ul>
+<li><span class="widget widget-cms-link-inline"><a href="http://test.magento/index.php/gift-cards?___SID=U" title="Gift Cards"><span>Gift Cards</span></a></span>
+</li>
+<li><span class="widget widget-cms-link-inline"><a href="http://test.magento/index.php/find-a-store?___SID=U" title="Find a Store"><span>Find a Store</span></a></span>
+</li>
+<li><span class="widget widget-cms-link-inline"><a href="http://test.magento/index.php/become-a-member?___SID=U" title="Become a Member"><span>Become a Member</span></a></span>
+</li>
+</ul>
+</div>
+<div class="links footer-links-help">
+<div class="block-title"><strong><span>Need Help?</span></strong></div>
+<ul>
+<li><span class="widget widget-cms-link-inline"><a href="http://test.magento/index.php/order-status?___SID=U" title="Order Status"><span>Order Status</span></a></span>
+</li>
+<li><span class="widget widget-cms-link-inline"><a href="http://test.magento/index.php/consignment?___SID=U" title="Consignment"><span>Consignment</span></a></span>
+</li>
+<li><span class="widget widget-cms-link-inline"><a href="http://test.magento/index.php/returns?___SID=U" title="Returns"><span>Returns</span></a></span>
+</li>
+<li><a href="http://test.magento/index.php/?___SID=Ucontacts/">Contact Us</a></li>
+</ul>
+</div>
+<div class="footer-soc"><a href="#" target="_blank"><img alt="" src="http://test.magento/media/wysiwyg/instogram.png" /></a> <a href="#" target="_blank"><img alt="" src="http://test.magento/media/wysiwyg/facebook.png" /></a> <a href="#" target="_blank"><img alt="" src="http://test.magento/media/wysiwyg/twitter.png" /></a></div>
